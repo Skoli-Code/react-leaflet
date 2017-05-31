@@ -3008,9 +3008,19 @@ lcid@^1.0.0:
   dependencies:
     invert-kv "^1.0.0"
 
+"leaflet.pattern@https://github.com/teastman/Leaflet.pattern.git":
+  version "0.1.0"
+  resolved "https://github.com/teastman/Leaflet.pattern.git#44c567802404659bd165bf502ae9aa81071ebd4c"
+  dependencies:
+    leaflet "~0.7.1"
+
 leaflet@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/leaflet/-/leaflet-1.0.3.tgz#1f401b98b45c8192134c6c8d69686253805007c8"
+
+leaflet@~0.7.1:
+  version "0.7.7"
+  resolved "https://registry.yarnpkg.com/leaflet/-/leaflet-0.7.7.tgz#1e352ba54e63d076451fa363c900890cb2cf75ee"
 
 leven@^2.0.0, leven@^2.1.0:
   version "2.1.0"

@@ -16,6 +16,7 @@ const OPTIONS = [
   'fillColor',
   'fillOpacity',
   'fillRule',
+  'fillPattern',
   'dashArray',
   'lineCap',
   'lineJoin',
